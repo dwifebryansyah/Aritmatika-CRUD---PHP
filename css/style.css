@@ -1,0 +1,10 @@
+body{
+	margin-top: 2%;
+	padding: 0;
+	overflow-x: hidden;
+	background-color: #eee;
+}
+
+.bg-1{
+	background-color: blue;
+}
